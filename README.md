@@ -1,0 +1,2 @@
+# Pokedex-php
+Solo - php 
